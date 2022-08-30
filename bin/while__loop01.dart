@@ -1,3 +1,6 @@
+//Print your name a hundred times
 void main() {
-  //Print your name a hundred times
+for(int a = 0;a < 100;a++){
+  print('sardor');
+}
 }
