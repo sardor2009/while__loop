@@ -1,3 +1,6 @@
+//Print your name 2343 times
 void main() {
-  //Print your name 2343 times
+for(int a = 0;a < 2343;a++){
+  print('sardor');
+}
 }
